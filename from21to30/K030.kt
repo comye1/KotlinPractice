@@ -1,7 +1,9 @@
+package from21to30
+
 fun main(args:Array<String>)
 {
     println(myFunction())
-    println(myFunction()+10)
+    println(myFunction() +10)
 
     println(function())
     println(function2())

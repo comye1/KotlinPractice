@@ -1,3 +1,5 @@
+package from11to20
+
 fun main(args:Array<String>):Unit
 {
     var isRight:Boolean = (10 + 70) > (3 * 25)

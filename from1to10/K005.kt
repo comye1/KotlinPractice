@@ -1,3 +1,5 @@
+package from1to10
+
 fun main(args:Array<String>):Unit
 {
     var num:Int = 28 - 6 * 4 //곱셈-정수, 뺄셈-정수

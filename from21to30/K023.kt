@@ -1,3 +1,5 @@
+package from21to30
+
 fun main(args:Array<String>)
 {
     val score = 75

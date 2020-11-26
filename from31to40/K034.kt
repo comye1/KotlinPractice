@@ -18,4 +18,4 @@ fun getSumOf(vararg numbers:Int):Int // 가변 인수
     }
     return sum // 인수가 없어도 0을 리턴
 }
-//fun function(something:Char, vararg numbers:Int):Int
+//fun from21to30.function(something:Char, vararg numbers:Int):Int

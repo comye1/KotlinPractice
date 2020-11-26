@@ -1,3 +1,5 @@
+package from1to10
+
 fun main(args:Array<String>):Unit
 {
     println(13 and 7)
