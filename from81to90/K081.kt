@@ -14,9 +14,9 @@ class Student(name:String, age:Int, val id:Int): Person(name,age)
  */
 fun main(args:Array<String>)
 {
-    val person:Person = Student("George", 29, 102837)
+    val person: Person = Student("George", 29, 102837)
 
-    val person2:Person =  Person("Burke",37)
+    val person2: Person = Person("Burke", 37)
 
     var person3:Student? = person as Student
 //    person3 = person2 as Student //ClassCastException --> as? 를 사용하면 null을 받을 수 있다.
